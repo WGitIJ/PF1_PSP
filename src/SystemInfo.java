@@ -1,3 +1,6 @@
+//Mostrar informació del sistema
+//El procés fill ha d’executar una comanda del sistema (systeminfo a Windows o uname -a i uptime a Linux/Mac). El resultat s’ha de mostrar per consola.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
