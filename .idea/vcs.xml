@@ -2,5 +2,200 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/Entornos/Entornos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/IFC33A" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/LLMM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/Llenguatge Marques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/MYSQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/Refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/Repositorio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/bookExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/first_repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Entorns/first_repository/GitHub_Programacion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/CSS_BASIC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/CSS_BASIC/llenguatge_marques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/ExamenHTML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/ExamenJS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Exercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Families" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/JavaScript-Begginer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/MasterMind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/MasterMindGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Object_JS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/nw.js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/nw.js-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Ahorcado-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Exercise-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Predict-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/QRCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/class_inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/exercice_imade_wisdom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Proyectos/FrontedMentor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP Manacor/Proyectos/Proyecto1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Digitalizacio/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/Actividad Opcional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ActividadEntregable4_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/Cuadrado-Magico" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ETU3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/Entornos U2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/EntornosU3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ExamenUT3.1_UT3.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ExamenUT3.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/SPPROT2.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/SPPROTema3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/SWPROTema4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/U2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/UT2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/WordSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Lenguaje Marcas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Practicas/TodoList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Practicas/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/ActividadUT4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Agenda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Examen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Examen 2.3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/ExamenBD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/FProjectGrafic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Herencia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Insurance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/InsuranceView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/JDBC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/PriceHotelStay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROContainers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROTema3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT22Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT22jar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT24" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SWPROContenedores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SWPROOrdenacioCerca" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SWPROPolimorfisme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/ut32-jdbc-exercicis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Acceso_Datos/JSON-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Acceso_Datos/Stream-Employee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/PyQT6/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/electron-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/electron-app/first-project-electron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/hello-world" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/introduction-dart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Multimedia/Flutter/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Multimedia/PF1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/Entornos/Entornos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/IFC33A" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/LLMM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/Llenguatge Marques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/MYSQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/Refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/Repositorio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/bookExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/first_repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Entorns/first_repository/GitHub_Programacion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/CSS_BASIC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/CSS_BASIC/llenguatge_marques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/ExamenHTML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/ExamenJS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Exercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Families" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/JavaScript-Begginer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/MasterMind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/MasterMindGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Object_JS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/nw.js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Llenguatge de Marques/nw.js-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Ahorcado-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Exercise-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/Predict-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/QRCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/class_inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Programación/IFC33A/exercice_imade_wisdom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Proyectos/FrontedMentor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP Manacor/Proyectos/Proyecto1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Digitalizacio/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/Actividad Opcional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ActividadEntregable4_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/Cuadrado-Magico" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ETU3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/Entornos U2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/EntornosU3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ExamenUT3.1_UT3.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/ExamenUT3.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/SPPROT2.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/SPPROTema3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/SWPROTema4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/U2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/UT2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Entornos/WordSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Lenguaje Marcas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Practicas/TodoList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Practicas/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/ActividadUT4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Agenda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Examen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Examen 2.3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/ExamenBD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/FProjectGrafic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Herencia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Insurance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/InsuranceView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/JDBC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/PriceHotelStay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROContainers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROTema3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT22Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT22jar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SPPROUT24" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SWPROContenedores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SWPROOrdenacioCerca" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/SWPROPolimorfisme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_24_25/Programación/ut32-jdbc-exercicis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Acceso_Datos/JSON-Exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Acceso_Datos/Stream-Employee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/PyQT6/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/electron-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/electron-app/first-project-electron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/hello-world" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/FP/CIFP_Inca/DAM_25-26/Interfaces/introduction-dart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/PF1/backup/Documentos/first-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/FP/CIFP_Inca/DAM_25-26/PSP/exercise8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/Documentos/first-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/Entornos/Entornos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/IFC33A" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/LLMM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/Llenguatge Marques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/MYSQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/Refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/Repositorio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/bookExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/first_repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Entorns/first_repository/GitHub_Programacion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/CSS_BASIC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/CSS_BASIC/llenguatge_marques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/ExamenHTML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/ExamenJS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Exercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/Families" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/JavaScript-Begginer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/MasterMind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/MasterMindGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/FP/CIFP Manacor/Llenguatge de Marques/nw.js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/OneDrive-2025-10-14_19-49/Documentos/first-project" vcs="Git" />
   </component>
 </project>
