@@ -28,15 +28,18 @@ public class ComprimirChild {
             //Ejecutamos el comando
             String[] command = {"cmd", "/c", "tar", "-cf", dest, ruta};
 
+            // Creamos un proceso para que ejecute el comando
             ProcessBuilder pb = new ProcessBuilder(command);
             Process process = pb.start();
 
+            //Aquí leemos aquello que el prceso que hemos creado nos mande
             BufferedReader output = new BufferedReader(new InputStreamReader(process.getInputStream()));
             String linea;
             while ((linea = output.readLine()) != null){
                 System.out.println(linea);
             }
 
+            // Comprobamos si se ha comprimido correctamente
             int isWorking = process.waitFor();
             if (isWorking == 0){
                 System.out.println("Se ha comprimido correctamente");

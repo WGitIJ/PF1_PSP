@@ -11,8 +11,10 @@ public class Comprimir {
         System.out.println("Inserta la ruta del fichero: ");
         String path = scanner.nextLine();
 
+        // Lo convertimos en file, para poder trabajar con el como fichero
         File file = new File(path);
 
+        //Comprobamos si el fichero existe
         if (!file.exists()){
             System.out.println("Error: la ruta no existe");
             return;
@@ -22,12 +24,14 @@ public class Comprimir {
             ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/ComprimirChild_jar/PF1.jar");
             Process son = pb.start();
 
+            // Enviamos la ruta al proceso hijo
             BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(son.getOutputStream()));
             writer.write(path);
             writer.newLine();
             writer.flush();
             writer.close();
 
+            // Leemos lo que nos ha enviado el hijo
             BufferedReader readerSon = new BufferedReader(new InputStreamReader(son.getInputStream()));
             String linea;
             while ((linea = readerSon.readLine()) != null){
