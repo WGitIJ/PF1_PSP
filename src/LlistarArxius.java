@@ -1,18 +1,27 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.Scanner;
 
 public class LlistarArxius {
-    public static void main(String[] args) {
+    public static void main() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introdueix la ruta del directori: ");
         String ruta = scanner.nextLine();
-        String[] command = {"cmd", "/c","dir ", ruta};
 
+        File file = new File(ruta);
+        if (!file.exists() || !file.isDirectory()){
+            System.out.println("Error: este directorio no existe");
+            return;
+        }
         try {
-            ProcessBuilder pb = new ProcessBuilder(command);
+            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/LlistarArxiu_jar/PF1.jar");
             Process son = pb.start();
+
+            BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(son.getOutputStream()));
+            writer.write(ruta);
+            writer.newLine();
+            writer.flush();
+            writer.close();
+
             BufferedReader reader = new BufferedReader(new InputStreamReader(son.getInputStream()));
 
             String line;

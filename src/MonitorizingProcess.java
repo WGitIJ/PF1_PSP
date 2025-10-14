@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class MonitorizingProcess {
-    public static void main(String[] args) throws IOException {
+    public static void main() throws IOException {
         fatherProcess();
     }
 
