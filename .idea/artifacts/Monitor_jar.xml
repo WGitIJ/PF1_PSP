@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="MonitorizingProcess:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MonitorizingProcess_jar</output-path>
+  <artifact type="jar" build-on-make="true" name="Monitor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Monitor_jar</output-path>
     <root id="archive" name="PF1.jar">
       <element id="module-output" name="PF1" />
     </root>

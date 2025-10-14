@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class Comprimir {
-    public static void main() throws IOException {
+    public static void main(String[] strings) throws IOException {
         fatherPorcess();
     }
 
@@ -21,7 +21,7 @@ public class Comprimir {
         }
 
         try{
-            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/ComprimirChild_jar/PF1.jar");
+            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/comprimir_jar/PF1.jar");
             Process son = pb.start();
 
             // Enviamos la ruta al proceso hijo

@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class LlistarArxius {
-    public static void main() {
+    public static void main(String[] strings) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introdueix la ruta del directori: ");
         String ruta = scanner.nextLine();
@@ -13,7 +13,7 @@ public class LlistarArxius {
             return;
         }
         try {
-            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/LlistarArxiu_jar/PF1.jar");
+            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/List_jar/PF1.jar");
             Process son = pb.start();
 
             BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(son.getOutputStream()));

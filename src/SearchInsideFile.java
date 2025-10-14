@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class SearchInsideFile {
-    public static void main() throws IOException {
+    public static void main(String[] strings) throws IOException {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Inserta el URL del fichero: ");
         String filePath = scanner.nextLine();
@@ -21,7 +21,7 @@ public class SearchInsideFile {
             System.out.println("Error: Word can't be empty");
             return;
         }
-        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/SearchInsideFile_jar/PF1.jar");
+        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/Search_jar/PF1.jar");
         Process fill = pb.start();
 
         try{

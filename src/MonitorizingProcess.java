@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class MonitorizingProcess {
-    public static void main() throws IOException {
+    public static void main(String[] strings) throws IOException {
         fatherProcess();
     }
 
@@ -11,7 +11,7 @@ public class MonitorizingProcess {
         System.out.println("Introduce el nombre del proceso: ");
         String procesName = scanner.nextLine();
 
-        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/MonitorizingProcess_jar/PF1.jar");
+        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/Monitor_jar/PF1.jar");
         Process son = pb.start();
 
         try{

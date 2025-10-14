@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 // Todo: Acabar este ejercicio
 public class Backup {
-    public static void main() throws IOException{
+    public static void main(String[] strings) throws IOException{
         fatherProcess();
     }
 

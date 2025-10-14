@@ -6,9 +6,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class SystemInfo {
-    public static void main() throws IOException {
+    public static void main(String[] strings) throws IOException {
         try {
-            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/SystemInfo_jar/PF1.jar");
+            ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/System_jar/PF1.jar");
             Process son = pb.start();
             BufferedReader reader = new BufferedReader(new InputStreamReader(son.getInputStream()));
 

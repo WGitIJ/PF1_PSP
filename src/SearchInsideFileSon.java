@@ -29,6 +29,6 @@ public class SearchInsideFileSon {
             }
         }
 
-        System.out.println(contador);
+        System.out.println("La palabra " + word + " aparece " + contador + " veces." );
     }
 }
