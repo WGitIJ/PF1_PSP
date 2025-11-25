@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: Menu
+Class-Path: out/artifacts/BackupChild_jar/PF1.jar out/artifacts/ComprimirChild_jar/PF1.jar out/artifacts/LlistarArxiu_jar/PF1.jar out/artifacts/MonitorizingProcess_jar/PF1.jar out/artifacts/SearchInsideFile_jar/PF1.jar out/artifacts/SystemInfo_jar/PF1.jar
