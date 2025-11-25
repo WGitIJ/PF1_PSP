@@ -1,15 +1,14 @@
+package SystemInfo;//Mostrar informació del sistema
+//El procés fill ha d’executar una comanda del sistema (systeminfo a Windows o uname -a i uptime a Linux/Mac). El resultat s’ha de mostrar per consola.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
-public class LlistarArxius {
+public class SystemInfo {
     public static void main(String[] args) {
-        System.out.println("--- Llistar Arxius d'un Directori ---");
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Introdueix la ruta del directori: ");
-        String ruta = scanner.nextLine();
-        String[] command = {"cmd", "/c","dir ", ruta};
+        System.out.println("--- System Information ---");
+        String[] command = {"systeminfo"};
 
         try {
             ProcessBuilder pb = new ProcessBuilder(command);
@@ -25,4 +24,5 @@ public class LlistarArxius {
             throw new RuntimeException(e);
         }
     }
+
 }

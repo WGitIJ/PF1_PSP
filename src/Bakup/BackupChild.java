@@ -1,3 +1,5 @@
+package Bakup;
+
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -38,7 +40,7 @@ public class BackupChild {
                 copyFile(rutaOriginal, destino);
             }
 
-            System.out.println("Backup completado exitosamente: " + destino.getAbsolutePath());
+            System.out.println("Bakup.Backup completado exitosamente: " + destino.getAbsolutePath());
 
         } catch (IOException e) {
             System.out.println("Error al realizar el backup: " + e.getMessage());

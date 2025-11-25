@@ -10,12 +10,12 @@ Aplicación de consola escrita en Java que centraliza varios ejercicios de Proce
 
 ## Estructura principal
 - `src/Menu.java`: menú principal con las 7 opciones del proyecto.
-- `src/SystemInfo*.java`: muestra información del sistema ejecutando `systeminfo` dentro de un proceso hijo.
-- `src/LlistarArxius*.java`: lista archivos de un directorio usando `dir`.
-- `src/SearchInsideFile*.java`: busca una palabra clave dentro de un fichero, enviando el contenido al proceso hijo.
-- `src/Backup*.java`: crea una copia del archivo indicado.
-- `src/Comprimir*.java`: comprime un fichero o carpeta.
-- `src/MonitorizingProcess*.java`: comprueba si un proceso está activo.
+- `src/SystemInfo.SystemInfo*.java`: muestra información del sistema ejecutando `systeminfo` dentro de un proceso hijo.
+- `src/Listar.LlistarArxius*.java`: lista archivos de un directorio usando `dir`.
+- `src/Search.SearchInsideFile*.java`: busca una palabra clave dentro de un fichero, enviando el contenido al proceso hijo.
+- `src/Bakup.Backup*.java`: crea una copia del archivo indicado.
+- `src/Comprimir.Comprimir*.java`: comprime un fichero o carpeta.
+- `src/Monitor.MonitorizingProcess*.java`: comprueba si un proceso está activo.
 
 Cada módulo tiene una versión “padre” que interactúa con el usuario y lanza un `.jar` hijo ubicado en `out/artifacts/<Modulo>_jar/PF1.jar`.
 

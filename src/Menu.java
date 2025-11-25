@@ -1,4 +1,11 @@
 // java
+import Bakup.Backup;
+import Comprimir.Comprimir;
+import Listar.LlistarArxius;
+import Monitor.MonitorizingProcess;
+import Search.SearchInsideFile;
+import SystemInfo.SystemInfo;
+
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -18,7 +25,7 @@ public class Menu {
                 System.out.println("2. Listar archivos de un directorio");
                 System.out.println("3. Buscar dentro de un fichero");
                 System.out.println("4. Crear una copia de fichero");
-                System.out.println("5. Comprimir un fichero o una carpeta");
+                System.out.println("5. Comprimir.Comprimir un fichero o una carpeta");
                 System.out.println("6. Monitorizar procesos activos");
                 System.out.println("7. Salir");
                 System.out.print("Selecciona que quieres hacer: ");

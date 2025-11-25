@@ -1,3 +1,5 @@
+package Search;
+
 import java.io.*;
 import java.util.Scanner;
 
@@ -22,7 +24,8 @@ public class SearchInsideFile {
             System.out.println("Error: Word can't be empty");
             return;
         }
-        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/SearchInsideFile_jar/PF1.jar");
+        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/SearchInsideFileSon_jar/PF1.jar");
+
         Process fill = pb.start();
 
         try{
