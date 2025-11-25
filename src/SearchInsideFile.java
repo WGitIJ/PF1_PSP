@@ -34,6 +34,7 @@ public class SearchInsideFile {
             writer.newLine();
 
             //Le enviamos el contenido del txt al hijo
+
             String line;
             while ((line = reader.readLine()) != null){
                 writer.write(line);

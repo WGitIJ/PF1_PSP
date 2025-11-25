@@ -9,6 +9,7 @@ public class BackupChild {
 
     public static void sonProcess() throws IOException {
         try {
+            System.out.println("Introduce la ruta del fichero o carpeta a respaldar:");
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             String ruta = reader.readLine();
             File rutaOriginal = new File(ruta);
