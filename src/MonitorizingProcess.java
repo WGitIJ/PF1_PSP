@@ -8,6 +8,7 @@ public class MonitorizingProcess {
 
     public static void fatherProcess() throws IOException {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("--- Monitorizing Process ---");
         System.out.println("Introduce el nombre del proceso: ");
         String procesName = scanner.nextLine();
 

@@ -7,6 +7,7 @@ public class Comprimir {
     }
 
     public static void fatherPorcess() throws IOException {
+        System.out.println("--- Comprimir Fichero ---");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Inserta la ruta del fichero: ");
         String path = scanner.nextLine();

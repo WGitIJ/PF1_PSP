@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 
 public class SystemInfo {
     public static void main(String[] args) {
+        System.out.println("--- System Information ---");
         String[] command = {"systeminfo"};
 
         try {

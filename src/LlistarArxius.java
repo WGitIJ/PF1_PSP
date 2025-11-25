@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class LlistarArxius {
     public static void main(String[] args) {
+        System.out.println("--- Llistar Arxius d'un Directori ---");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Introdueix la ruta del directori: ");
         String ruta = scanner.nextLine();

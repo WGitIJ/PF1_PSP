@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class SearchInsideFile {
     public static void main(String[] args) throws IOException {
+        System.out.println("--- Search Inside File ---");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Inserta el URL del fichero: ");
         String filePath = scanner.nextLine();
