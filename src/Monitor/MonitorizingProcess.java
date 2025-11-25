@@ -14,7 +14,7 @@ public class MonitorizingProcess {
         System.out.println("Introduce el nombre del proceso: ");
         String procesName = scanner.nextLine();
 
-        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/MonitorizingProcess_jar/PF1.jar");
+        ProcessBuilder pb = new ProcessBuilder("java", "-jar", "out/artifacts/MonitorizingProcessChild_jar/PF1.jar");
         Process son = pb.start();
 
         try{

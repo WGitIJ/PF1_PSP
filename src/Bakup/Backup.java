@@ -22,7 +22,7 @@ public class Backup {
         }
 
         try{
-            ProcessBuilder pb = new ProcessBuilder("java", "out/artifacts/BackupChild_jar/PF1.jar");
+            ProcessBuilder pb = new ProcessBuilder("java", "-jar" ,"out/artifacts/BackupChild_jar/PF1.jar");
             Process son = pb.start();
 
             BufferedWriter writer =  new BufferedWriter(new OutputStreamWriter(son.getOutputStream()));
